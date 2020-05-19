@@ -1,0 +1,1 @@
+java -jar taxprinting.jar bulkgenerate

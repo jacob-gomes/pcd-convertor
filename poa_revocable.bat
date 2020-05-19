@@ -1,0 +1,1 @@
+java -jar target\pcdConverter-1.1.3.jar poa_revocable
