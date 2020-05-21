@@ -8,7 +8,7 @@ import com.pdfcore.main.factory.PCDConvertorFactory;
 import com.pdfcore.main.model.ProcessingInstructionModel;
 import com.pdfcore.main.processor.PCDConvertorProcessor;
 import com.pdfcore.main.processor.impl.AccroFieldExtractor;
-import com.pdfcore.main.processor.impl.AccroFieldExtractorPDFBoxImpl;
+import com.pdfcore.main.processor.pfbox.impl.AccroFieldExtractorPDFBoxImpl;
 
 @Component
 public class ExtractFactoryImpl implements PCDConvertorFactory {
